@@ -1,7 +1,5 @@
 # Programa para memorizar a tabuada
 
-Programa que auxilia a memorização da tabuada.
-
 ### Tecnologias
 - Windows Dekstop
 - C#
