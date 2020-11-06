@@ -1,3 +1,4 @@
 # Programa para memorizar a tabuada
 
-![alt text](https://github.com/osdeving/tomartabuada/blob/[master/tomar tabuada5.png?raw=true)
+![print tomar tabuada](https://github.com/osdeving/tomartabuada/blob/master/Tomar%20Tabuada5.png?raw=true)
+
