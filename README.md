@@ -18,3 +18,5 @@ Esse programa foi feito numa linguagem que nunca estudei: C#. Apenas criei um pr
 
 ![print tomar tabuada](https://github.com/osdeving/tomartabuada/blob/master/Tomar%20Tabuada5.png?raw=true)
 
+
+Codado por Willams "osdeving" Sousa :)
